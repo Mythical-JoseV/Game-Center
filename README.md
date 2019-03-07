@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Welcome to PYTR
 
-You can use the [editor on GitHub](https://github.com/Mythical-JoseV/Game-Center/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## All these run on python 3.7 unless stated otherwise.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Pygame Games
+### This is the only game in Pygame, and you need pygames installed in order to play this game.
 
-### Markdown
+### Battleship WIP
+[Battleship](https://repl.it/@Mythical_JoseV/Battleship)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Python 3.7
+### All of these games are in python 3.7.2
 
-```markdown
-Syntax highlighted code block
+## Tic-Tac-Toe
+[Jorge's Tic-Tac-Toe](https://github.com/J0rgeramos/Tic-Tac-Toe-Game/blob/master/game)
 
-# Header 1
-## Header 2
-### Header 3
+## Rock Paper Scissors
+[Ethen Rock-Paper-Scissors with a Twist](https://github.com/EthenWilson/rockpaperscissors)
 
-- Bulleted
-- List
+## BlackJack
+[Marco's BlackJack](https://github.com/MarcoTortilla/BlackJack)
 
-1. Numbered
-2. List
+## Tirvia Game
+[RJ's Tirvia Game](https://github.com/lilhollywood-rj/Trivia-game-Fortnite-)
 
-**Bold** and _Italic_ and `Code` text
+## BlackJack
+[Carel's BlackJack Game](https://github.com/Jkr2020/Blackjack/blob/master/blackjack%20code)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## BlackJack
+[Jy'Chaun's BlackJack Game](https://github.com/Jkr2020/Blackjack/blob/master/blackjack%20code)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mythical-JoseV/Game-Center/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Trivia Game
+[Sebastian's Trivia Game](https://gist.github.com/SebastianAispuro/bb41390872eccbe810943042009253df)
 
-### Support or Contact
+## Hangman Game
+[Kevin Hangman Game](https://gist.github.com/KevinDLS/fce3e23c41386d448d043fa8c35b4db1)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
